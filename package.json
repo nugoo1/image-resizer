@@ -1,0 +1,19 @@
+{
+  "name": "image-resizer",
+  "version": "1.0.0",
+  "description": "Helps you bulk resize images",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "resizer"
+  ],
+  "author": "nugo",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.32.0"
+  }
+}
